@@ -2,3 +2,5 @@ buenas tardes esto es parte del curso de git y github de platzi
 este es el segundo cambio que hago en el archivo
 
 me llamo carlos y soy de galapagos
+
+hoy es estudiante de platzi
